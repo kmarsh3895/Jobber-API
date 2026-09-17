@@ -48,4 +48,4 @@ to actually send to this, and we'll test it together with a real submission.
 
 ## If something errors
 Copy the exact error text and send it over — that's usually enough to fix
-without needing to know what any of it means.
+without needing to know what any of it means..
