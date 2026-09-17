@@ -1,0 +1,9 @@
+{
+  "name": "repair-iowa-jobber-integration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Connects the Repair Iowa website quote form to Jobber (creates a client + draft quote automatically).",
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
